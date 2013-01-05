@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+
+   id="TemplatePlugin"
+   iconfile="icon.png"
+   description="Template Plugin"
+   tooltip="Only there for demonstration purposes"
+   category="Demonstration"
+   classname="plugin.template.TemplateStepMeta">
+		
+		<libraries>
+    		<library name="scala.template.step-0.0.1-SNAPSHOT.jar"/>
+		</libraries>
+		
+</plugin>
